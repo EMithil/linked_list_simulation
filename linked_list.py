@@ -38,9 +38,10 @@ if __name__ == "__main__":
     ll.insert(37)
     ll.insert(34)
     ll.insert(43)
-    print(linked list after inserting 37, 34, 43)
+    print("linked list after inserting 37, 34, 43")
     ll.display()
     ll.delete(37)
-    print(linked list after deleting 37)
+    print("linked list after deleting 37")
     ll.display()
+
 
